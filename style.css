@@ -12,22 +12,14 @@ body {
   
   .main{
     background-color: white;
-    width: 400px;
-    height: 365px;
-    margin: auto;
-    margin-top: 70px;
-    text-align: center;
-   
- }
- .main{
-    background-color: white;
     width: 500px;
-    height: 505px;
+    height: 445px;
     margin: auto;
     margin-top: 70px;
     text-align: center;
    
  }
+ 
  
  .container{
     padding-top: 40px;
